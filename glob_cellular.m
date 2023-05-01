@@ -1,7 +1,7 @@
-n=30;
+n=80;
 iter2=500;
 iter1=50;
-startsize2=10;
+startsize2=16;
 globit=100;
 lyaps=zeros(4,globit);
 deads=zeros(1,globit);
